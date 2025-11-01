@@ -14,7 +14,8 @@ Roster — консольное приложение, реализующее р�
 
 Результаты после оптимизации:
 <img width="1285" height="299" alt="image" src="https://github.com/user-attachments/assets/e35c3ffe-aeb4-4aef-aa85-216cecb4b59d" />
-<img width="1814" height="200" alt="image" src="https://github.com/user-attachments/assets/9cb3112e-008b-4817-8438-f091b44a189e" />
+<img width="794" height="202" alt="image" src="https://github.com/user-attachments/assets/d1403141-ca45-42f1-b41d-d4ce25ec9b1e" />
+
 
 Дла запуска приложения необходимо ввести такие команды:
 1) docker-compose up -d
