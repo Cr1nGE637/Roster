@@ -1,0 +1,17 @@
+D:\Lab\Roster\Roster.Application\bin\Debug\net9.0\Roster.Application.deps.json
+D:\Lab\Roster\Roster.Application\bin\Debug\net9.0\Roster.Application.dll
+D:\Lab\Roster\Roster.Application\bin\Debug\net9.0\Roster.Application.pdb
+D:\Lab\Roster\Roster.Application\bin\Debug\net9.0\Roster.Domain.dll
+D:\Lab\Roster\Roster.Application\bin\Debug\net9.0\Roster.Domain.pdb
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.csproj.AssemblyReference.cache
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.AssemblyInfoInputs.cache
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.AssemblyInfo.cs
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.csproj.CoreCompileInputs.cache
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.A.F467CDA3.Up2Date
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.dll
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\refint\Roster.Application.dll
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.pdb
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\ref\Roster.Application.dll
+D:\Lab\Roster\Roster.Application\bin\Debug\net9.0\Roster.Application.runtimeconfig.json
+D:\Lab\Roster\Roster.Application\obj\Debug\net9.0\Roster.Application.genruntimeconfig.cache

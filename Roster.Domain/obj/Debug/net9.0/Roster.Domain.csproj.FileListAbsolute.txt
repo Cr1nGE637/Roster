@@ -1,0 +1,12 @@
+D:\Lab\Roster\Roster.Domain\bin\Debug\net9.0\Roster.Domain.deps.json
+D:\Lab\Roster\Roster.Domain\bin\Debug\net9.0\Roster.Domain.dll
+D:\Lab\Roster\Roster.Domain\bin\Debug\net9.0\Roster.Domain.pdb
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\Roster.Domain.csproj.AssemblyReference.cache
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\Roster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\Roster.Domain.AssemblyInfoInputs.cache
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\Roster.Domain.AssemblyInfo.cs
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\Roster.Domain.csproj.CoreCompileInputs.cache
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\Roster.Domain.dll
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\refint\Roster.Domain.dll
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\Roster.Domain.pdb
+D:\Lab\Roster\Roster.Domain\obj\Debug\net9.0\ref\Roster.Domain.dll

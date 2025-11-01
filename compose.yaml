@@ -1,0 +1,21 @@
+﻿services:
+  roster:
+    image: roster
+    build:
+      context: .
+      dockerfile: Roster/Dockerfile
+      
+  Database:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres123
+      POSTGRES_DB: Roster
+    volumes:
+      - database_volume:/var/lib/postgres/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  database_volume:
+
